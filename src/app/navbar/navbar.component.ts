@@ -8,5 +8,5 @@ import { RouterLink } from '@angular/router';
   styleUrl: './navbar.component.css'
 })
 export class NavbarComponent {
-  icon="<Sandipan />"
+  icon="Portfolio.25"
 }
