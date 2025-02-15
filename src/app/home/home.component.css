@@ -3,7 +3,9 @@
     border-color: black;
     font-size: 15px;
 } */
-
+.fab:hover{
+    color: rgb(226, 226, 226) !important;
+}
 .display-1{
     font-size: 40px;
     color: white;
@@ -33,12 +35,12 @@
     
 }
 #resume:hover{
-    background-color: rgba(255, 255, 255, 0.6); /* White with 60% opacity */
-    color: #444444 !important;
+    background-color: rgba(255, 255, 255, 0.3); /* White with 60% opacity */
+    color: white !important;
     border: 1.3px;
 }
 #contact:hover{
-    background-color: rgba(255, 255, 255, 0.6); /* White with 60% opacity */
-    color: #444444 !important;
+    background-color: rgba(255, 255, 255, 0.3); /* White with 60% opacity */
+    color: white !important;
     border: 1.3px;
 }
