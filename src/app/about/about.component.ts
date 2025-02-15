@@ -8,5 +8,5 @@ import { FooterComponent } from '../footer/footer.component';
   styleUrl: './about.component.css'
 })
 export class AboutComponent {
-
+  email="sandipan.sk7@gmail.com"
 }
