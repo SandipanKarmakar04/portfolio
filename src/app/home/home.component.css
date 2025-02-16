@@ -4,7 +4,7 @@
     font-size: 15px;
 } */
 .fab:hover{
-    color: rgb(226, 226, 226) !important;
+    color: rgba(0, 0, 0, 0.53) !important;
 }
 .display-1{
     font-size: 40px;
