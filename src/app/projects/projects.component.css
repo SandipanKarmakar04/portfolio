@@ -7,7 +7,9 @@
     font-size: small;
     color: rgba(255, 0, 93, 0.804);
     border-color: rgba(255, 0, 93, 0.804);
+    border-radius: 3px;
 }
 .btn:hover{
-    background-color: rgba(255, 0, 93, 0.2);
+    background-color: rgba(255, 0, 93, 0.804); 
+    color: white !important;
 }

@@ -7,3 +7,12 @@
     background: linear-gradient(white, white) padding-box, 
                 linear-gradient(130deg, #ff9c02, #ff9c02, white, white) border-box;
 }
+.form-control::placeholder {
+    text-align: left;
+    vertical-align: top;
+}
+.form-control {
+    padding-top: 5px; /* Adjust as needed */
+    text-align: left;
+    vertical-align: top;
+}
