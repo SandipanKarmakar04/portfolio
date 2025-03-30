@@ -5,7 +5,7 @@
     border: 3px solid transparent;
     border-radius: 100%;
     background: linear-gradient(white, white) padding-box, 
-                linear-gradient(130deg, #ff9c02, #ff9c02, white, white) border-box;
+                linear-gradient(130deg, #ff9c02, #ff9c02, rgb(186, 15, 157), rgb(201, 18, 109)) border-box;
 }
 .form-control::placeholder {
     text-align: left;
