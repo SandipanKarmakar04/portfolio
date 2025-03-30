@@ -1,0 +1,29 @@
+.card {
+    border-radius: 3px;
+    border: 1.3px solid rgba(0, 0, 0, 0.53);
+}
+
+.btn {
+    font-size: small;
+    color: rgba(0, 115, 255, 0.836);
+    border-color: rgba(0, 115, 255, 0.836);
+    border-radius: 3px;
+}
+.btn:hover{
+    background-color: rgba(0, 115, 255, 0.836); 
+    color: white !important;
+}
+
+.accordion {
+    border-radius: 3px;
+    overflow: hidden; /* Ensures inner elements follow the border radius */
+}
+
+.accordion-item {
+    border-radius: 3px;
+    margin-bottom: 5px; /* Optional spacing between items */
+}
+
+.accordion-button {
+    border-radius: 3px !important;
+}
